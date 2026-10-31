@@ -2,18 +2,19 @@
 
 # 💎 Germani Jewellery Academy: Website Showcase
 
-**A website I am designing and building for Germani Jewellery Academy, a luxury jewellery house and jewellery business academy in Sydney.**
+**A website I designed and built for Germani Jewellery Academy, a luxury jewellery house and jewellery business academy in Sydney. Now live at [germani.com.au](https://germani.com.au).**
 
 <p>
 <picture><img alt="Client Project" src="https://img.shields.io/badge/Type-Client%20Project-b08d57?style=flat-square" height="28"></picture>
-<picture><img alt="Status: In Progress" src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" height="28"></picture>
+<picture><img alt="Status: Live" src="https://img.shields.io/badge/Status-Live-2ea44f?style=flat-square" height="28"></picture>
+<a href="https://germani.com.au"><picture><img alt="Visit germani.com.au" src="https://img.shields.io/badge/Visit-germani.com.au-0a1c6b?style=flat-square&logo=googlechrome&logoColor=white" height="28"></picture></a>
 </p>
 
 <p>
 <picture><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></picture>
 <picture><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></picture>
 <picture><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></picture>
-<picture><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"></picture>
+<picture><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"></picture>
 </p>
 
 ![Signature pieces from the Germani collection](screenshots/00-signature-pieces.jpg)
@@ -35,7 +36,7 @@ The client wanted a refined, luxury look that follows his printed brochure. The 
 - introduce the Academy and publish its full prospectus
 - make it easy to book a showroom appointment
 
-I am responsible for the whole build: **design, development, content structure, image optimisation, SEO and deployment**, working through the client's feedback and brand rules.
+I was responsible for the whole build: **design, development, content structure, image optimisation, SEO and deployment**, working through the client's feedback and brand rules.
 
 ---
 
@@ -49,7 +50,7 @@ I am responsible for the whole build: **design, development, content structure, 
 | 💍 **Collections** | A gallery in five chapters (important necklaces, rare gems, diamond necklaces & bracelets, engagement rings, earrings & more) with **category filters** and a **lightbox** |
 | ✏️ **Bespoke** | The step-by-step bespoke process, from first conversation to finished piece, with design sketches |
 | 🎓 **Academy** | An introduction to the course and the **full 16-page prospectus** as a web page, with a PDF download |
-| 📅 **Appointments** | An appointment form (Netlify Forms) plus direct phone, email and Instagram links |
+| 📅 **Appointments** | An appointment form that opens the visitor's email with the request ready to send, plus direct phone, email and Instagram links |
 | 🪪 **Digital business card** | A private business-card page with a **vCard "Save Contact"** download, a **QR code** and a print-ready card PDF |
 | 📱 **Responsive** | Mobile-first layouts with a slide-out menu |
 | ⚡ **Performance** | All photos converted to optimised **WebP**, with no framework or build step, so pages load fast |
@@ -130,8 +131,8 @@ Clicking any piece opens it full size with its description and an "Ask about thi
 
 - **Frontend:** semantic HTML5, modern CSS (custom properties, Flexbox and Grid), vanilla JavaScript
 - **Images:** optimised WebP photos, SVG logo
-- **Hosting & deployment:** Netlify, with continuous deployment from a private GitHub repository
-- **Forms:** Netlify Forms for appointment requests
+- **Hosting & deployment:** Vercel, with continuous deployment from a private GitHub repository and the custom domain germani.com.au
+- **Forms:** an appointment form that prepares an email to the client, with no third-party form service
 - **Tools:** a small Python script that builds the business-card QR code and print-ready PDF
 
 ---
@@ -147,9 +148,9 @@ Clicking any piece opens it full size with its description and an "Ask about thi
 
 ---
 
-## 🚧 Status
+## ✅ Status
 
-**In progress.** The main pages are built and the site is going through client review before launch.
+**Completed and live** at **[germani.com.au](https://germani.com.au)**. The site went through several rounds of client review before launch, and new pieces are added as the client sends them.
 
 ---
 
